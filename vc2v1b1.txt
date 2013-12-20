@@ -1,0 +1,12 @@
+       OS/2 Upload Information for VoiceChat/2
+
+Archive Name: vc2v1b1.zip
+Program Description: Internet Voice Communication package (complete)
+Operating System Versions: OS/2 Warp 3.0 , not tested with 2.1
+Program Source: Dan Libby and Stephen Loomis ( sophisto@ezlink.com )
+Replaces: N/A
+
+Your name: Stephen Loomis
+Your email address: sophisto@ezlink.com
+
+Proposed directory for placement: /os2/network/tcpip   this is NOT a port.
